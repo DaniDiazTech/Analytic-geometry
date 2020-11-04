@@ -10,3 +10,7 @@ Usage:
 
 * python3 main.py
 
+TODO:
+
+* implement graphics with bokeh
+
